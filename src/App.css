@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+
+}
+/******************Navbar section*****************************/
+.nav{
+  background-color: #F55A5A;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  
+
+}
+/******************app section*********************/
+.container{
+  padding: 50px;
+  margin: auto;
+  
+
+}
+/******************** Content section****************/
+.content-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+
+}
+.content-img{
+  width: 30%;
+  padding: 20px;
+  
+}
+.content-img img{
+  max-width: 100px;
+  height: 90px;
+  
+  
+}
+
+.content-item{
+  text-align: left;
+  max-width: 70%;
+  
+}
+.content-item .icon{
+  color: #F55A5A;
+  
+}
+.content-item .location{
+  margin: 15px 10px 5px 5px;
+}
+a{
+  color:#918E9B;
+}
+.content-item h1{
+  font-weight: bold;
+  margin: 10px 0 20px 0;
+}
+.container p{
+  margin: 20px 0;
+  color: #2B283A;
+}
+
+.date{
+  font-weight: bold;
+ 
+}
